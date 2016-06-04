@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CertificationISPD.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ListURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://docs.google.com/spreadsheets/d/12AQgCDP47NME0NxpByY2lP0AeyL6BOtTV9VmWy09Apw/export?format=xlsx&amp;id=12AQgCDP47NME0NxpByY2lP0AeyL6BOtTV9VmWy09Apw</Value>
+    </Setting>
+    <Setting Name="ListFN" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FSTEC.xlsx</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="source" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Y1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">-1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
